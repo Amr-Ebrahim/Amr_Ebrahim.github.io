@@ -26,7 +26,7 @@ git clone https://github.com/Amr_Ebrahim/Amr_Ebrahim.github.io.git
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/Amr_Ebrahim-167915271/).
+If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/amr-ebrahim-el-sayed).
 
 ## License
 
