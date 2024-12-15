@@ -1,4 +1,4 @@
-# Abdelrahman Mohamed - Personal portfolio
+# Amr Ebrahim - Personal portfolio
 
 fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -15,18 +15,18 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AbdooMohamedd/AbdooMohamedd.github.io.git
+sudo git clone https://github.com/Amr_Ebrahim/Amr_Ebrahim.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AbdooMohamedd/AbdooMohamedd.github.io.git
+git clone https://github.com/Amr_Ebrahim/Amr_Ebrahim.github.io.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-167915271/).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/Amr_Ebrahim-167915271/).
 
 ## License
 
